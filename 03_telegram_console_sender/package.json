@@ -1,0 +1,13 @@
+{
+  "name": "03_telegram_console_sender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
